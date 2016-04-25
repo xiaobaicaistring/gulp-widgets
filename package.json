@@ -1,0 +1,14 @@
+{
+  "name": "widgets",
+  "version": "1.0.0",
+  "description": "a gulp plugin for generate widgets",
+  "main": "index.js",
+  "keywords": [
+    "widgets"
+  ],
+  "author": "yafei",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.1"
+  }
+}
