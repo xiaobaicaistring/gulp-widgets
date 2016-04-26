@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-widgets": "^1.0.0"
+  }
+}
