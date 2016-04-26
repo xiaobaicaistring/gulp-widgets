@@ -1,6 +1,6 @@
 {
   "name": "gulp-widgets",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a gulp plugin for generate widgets",
   "main": "index.js",
   "keywords": [
