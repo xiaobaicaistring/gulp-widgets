@@ -7,6 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-widgets": "^1.1.0"
+    "gulp-widgets": "^1.1.1"
   }
 }

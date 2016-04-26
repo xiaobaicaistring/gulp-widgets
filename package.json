@@ -1,6 +1,6 @@
 {
   "name": "gulp-widgets",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "a gulp plugin for generate widgets",
   "main": "index.js",
   "keywords": [
@@ -11,9 +11,7 @@
   "dependencies": {
     "bluebird": "^3.3.5",
     "cssnano": "^3.5.2",
-    "gulp-rename": "^1.2.2",
     "html-minifier": "^2.1.0",
-    "rd": "0.0.2",
     "through2": "^2.0.1"
   }
 }
