@@ -1,8 +1,8 @@
 #gulp-widgets
 
-### a gulp plugin for widgets
+ a gulp plugin for widgets
 ##Installation
-###Install package with NPM and add it to your development dependencies:
+Install package with NPM and add it to your development dependencies:
 ```
 npm install --save-dev gulp-widgets
 ```
